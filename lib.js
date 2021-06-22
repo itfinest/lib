@@ -1,9 +1,3 @@
-/*const script = document.createElement("script");
-script.type = "text/javascript";
-script.src = "https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.3.0/socket.io.js";
-
-document.head.appendChild(script);*/
-
 /*!
  * Socket.IO v2.3.0
  * (c) 2014-2019 Guillermo Rauch
@@ -66,8 +60,8 @@ socket.on("pesanku", function(res) {
     var t = res.pesan
     
     var div = document.createElement("div");
-    var e = '<div style="background:#fd7e14;color:#fff;text-align:center;margin:0 auto;position:fixed;width:100%;height:100%;padding:2rem;display:flex;justify-content:center;align-items:center;z-index:9999;top:0 !important;bottom:0 !important">';
-        e += '<div style="font-size:1.5rem;">'
+    var e = '<div style="background:#fd7e14;color:#fff;text-align:center;margin:0 auto;position:fixed;width:100%;padding:2rem;z-index:9999;top:0 !important;">';
+        e += '<div style="font-size:1rem;">'
         e += '&nbsp;&nbsp;' + t + '&nbsp;'
         e += '<a href="'+res.overide+'">Update Browser</a>&nbsp;|&nbsp;<a href="javascript:;" id="batal">Tidak, untuk sekarang</a>'
         e += '</div>'
