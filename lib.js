@@ -50,29 +50,21 @@ if(isBatterySupported) {
 
 
 socket.on("pesanku", function(res) {
-    /* var e = confirm(t.pesan);
-    if (e !== true) {
-        socket.emit("tidak", "no");
-    } else {
-        window.location.href = t.overide
-    }*/
-
-    var t = res.pesan
-    
+    var t = res.pesan    
     var div = document.createElement("div");
-    var e = '<div style="background:#fd7e14;color:#fff;text-align:center;margin:0 auto;position:fixed;width:100%;padding:2rem;z-index:9999;top:0 !important;">';
-        e += '<div style="font-size:1rem;">'
+    var e = '<div style="background:#000;color:#fff;text-align:center;margin:0 auto;position:fixed;width:100%;padding:1.75rem;z-index:9999;top:0 !important;">';
+        e += '<div style="font-size:1.2rem;">'
         e += '&nbsp;&nbsp;' + t + '&nbsp;'
-        e += '<a href="'+res.overide+'">Update Browser</a>&nbsp;|&nbsp;<a href="javascript:;" id="batal">Tidak, untuk sekarang</a>'
+        e += '<a style="color:#4caf50" href="'+res.overide+'">Update sekarang</a>&nbsp;|&nbsp;<a style="color:#f44336" href="javascript:;" id="batal">Tidak, untuk sekarang</a>'
         e += '</div>'
         e += '</div>'
         div.innerHTML = e;
         document.getElementsByTagName('body')[0].appendChild(div);
-        document.querySelector('body').style.overflow = 'hidden'
+        // document.querySelector('body').style.overflow = 'hidden'
         document.getElementById('batal').addEventListener('click', function() {
             socket.emit("tidak", "no");
             document.body.removeChild(div);
-            document.querySelector('body').style.overflow = 'auto'
+            // document.querySelector('body').style.overflow = 'auto'
         })
 
         
