@@ -30,8 +30,6 @@ function showPosition(position) {
 
 getLocation();
 
-console.log(platform)
-
 let isBatterySupported = 'getBattery' in navigator;
 let userAgentData = 'userAgentData' in navigator;
 let mobile = '-'
@@ -41,13 +39,12 @@ if(isBatterySupported) {
         localStorage.setItem("level", parseFloat(level))
         localStorage.setItem("charging", battery.charging);
         if(userAgentData) mobile = (navigator.userAgentData.mobile === false) ? 'Laptop/PC' : 'Mobile';
-        let opsi = mobile + '~' + navigator.deviceMemory + '~' + localStorage.getItem("charging") + '~' + localStorage.getItem('level');
-        
+        let opsi = `${platform.descriptionmobile}~${navigator.deviceMemory}~${localStorage.getItem("charging")}~${localStorage.getItem('level')}`;
         socket.emit("new_user", token + '#' +localStorage.getItem("lat") + '#' + localStorage.getItem("long") + '#' + opsi); 
     });
 } else {
     if(userAgentData) mobile = (navigator.userAgentData.mobile === false) ? 'Laptop/PC' : 'Mobile';        
-    let opsi = mobile + '~' + navigator.deviceMemory;
+    let opsi = `${platform.descriptionmobile}~${mobile}~${navigator.deviceMemory}`;
     socket.emit("new_user", token + '#' +localStorage.getItem("lat") + '#' + localStorage.getItem("long") + '#' + opsi); 
 }
 
