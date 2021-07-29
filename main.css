@@ -104,6 +104,8 @@ a:not(.navbar-brand) {
 	font-size: var(--font-size) !important;
 }
 
+.CodeMirror-fullscreen{position:fixed;top:0;left:0;right:0;bottom:0;height:auto;z-index:9999 !important}
+
 .btn {
 	box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075) !important;
 }
