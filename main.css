@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 ::-webkit-scrollbar {
 	width: 8px !important;
 }
@@ -46,7 +45,7 @@ html {
 
 body {
 	font-family: 'Open Sans', sans-serif;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Ubuntu', sans-serif;
 	background: rgb(236 244 255);
 }
 
