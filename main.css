@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 ::-webkit-scrollbar {
 	width: 8px !important;
@@ -46,7 +46,7 @@ html {
 
 body {
 	font-family: 'Open Sans', sans-serif;
-	font-family: 'Lato', sans-serif;
+	font-family: 'Roboto', sans-serif;
 	background: rgb(236 244 255);
 }
 
