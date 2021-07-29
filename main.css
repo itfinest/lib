@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
+
+
 ::-webkit-scrollbar {
 	width: 8px !important;
 }
@@ -10,6 +13,14 @@
 	background: #eee;
 }
 
+* {
+	font-family: 'Noto Sans JP', sans-serif;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
 .fade,
 body {
 	-webkit-animation-name: fade;
@@ -18,32 +29,7 @@ body {
 	animation-duration: 2s;
 }
 
-@-webkit-keyframes fade {
-	from {
-		opacity: 0
-	}
-
-	to {
-		opacity: 1
-	}
-}
-
-@keyframes fade {
-	from {
-		opacity: 0
-	}
-
-	to {
-		opacity: 1
-	}
-}
-
-html {
-	scroll-behavior: smooth;
-}
-
 body {
-	font-family: 'Open Sans', sans-serif;
 	background: rgb(236 244 255);
 }
 
@@ -104,7 +90,15 @@ a:not(.navbar-brand) {
 	font-size: var(--font-size) !important;
 }
 
-.CodeMirror-fullscreen{position:fixed;top:0;left:0;right:0;bottom:0;height:auto;z-index:9999 !important}
+.CodeMirror-fullscreen {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	height: auto;
+	z-index: 9999 !important
+}
 
 .btn {
 	box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075) !important;
@@ -190,4 +184,25 @@ left: -50px !important;
 	/* .dropdown-menu.menubreadcrumb {
 left: -50px !important;
 } */
+}
+
+
+@-webkit-keyframes fade {
+	from {
+		opacity: 0
+	}
+
+	to {
+		opacity: 1
+	}
+}
+
+@keyframes fade {
+	from {
+		opacity: 0
+	}
+
+	to {
+		opacity: 1
+	}
 }
