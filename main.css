@@ -12,10 +12,6 @@
 	background: #eee;
 }
 
-* {
-	font-family: 'Open Sans', sans-serif;
-}
-
 html {
 	scroll-behavior: smooth;
 }
@@ -29,6 +25,7 @@ body {
 }
 
 body {
+	font-family: 'Open Sans', sans-serif;
 	background: rgb(236 244 255);
 }
 
