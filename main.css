@@ -234,7 +234,7 @@ li.breadcrumb-item a.dropdown-item {
 .dropdown-menu.menubreadcrumb {
 	max-height: 50vh !important;
 	overflow-y: auto;
-	z-index: 999999 !important;
+	z-index: 999 !important;
 }
 
 .fullscreen {
