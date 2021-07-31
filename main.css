@@ -125,6 +125,10 @@ a:not(.navbar-brand) {
 	text-align: center;
 }
 
+input[type="checkbox"] {
+	cursor: pointer;
+}
+
 .box {
 	border-radius: 3px;
 	margin-bottom: 10px;
