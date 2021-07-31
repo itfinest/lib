@@ -77,9 +77,7 @@ html {
 	scroll-behavior: smooth;
 }
 
-.fade,
-.container,
-.container-fluid {
+.fade{
 	-webkit-animation-name: fade;
 	-webkit-animation-duration: 2s;
 	animation-name: fade;
