@@ -93,8 +93,18 @@ body {
 	background: rgb(236 244 255);
 }
 
+a {
+	cursor: pointer !important;
+}
+
 a:not(.navbar-brand) {
 	color: var(--default-theme);
+	cursor: pointer !important;
+}
+
+a:not([href]) {
+	color: var(--default-theme) !important;
+	cursor: pointer !important;
 }
 
 .btn-primary {
