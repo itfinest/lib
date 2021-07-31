@@ -206,6 +206,7 @@ max-width: 70% !important;
 
 .alert {
 	word-break: break-word !important;
+	font-size: 14px;
 }
 
 .caption {
