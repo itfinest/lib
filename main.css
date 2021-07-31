@@ -77,13 +77,14 @@ html {
 	scroll-behavior: smooth;
 }
 
-/* .fade,
-body {
+.fade,
+.container,
+.container-fluid {
 	-webkit-animation-name: fade;
 	-webkit-animation-duration: 2s;
 	animation-name: fade;
 	animation-duration: 2s;
-} */
+}
 
 body {
 	font-family: 'Open Sans', sans-serif;
