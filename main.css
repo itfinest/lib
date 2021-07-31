@@ -165,14 +165,13 @@ a:not(.navbar-brand) {
 max-width: 70% !important;
 }*/
 
-.btn,
 .btn-primary.disabled,
 .btn-primary:disabled,
 .btn-primary:focus,
 .btn-primary:hover,
-.btn:not(:disabled):not(.disabled),
+.btn-primary:not(:disabled):not(.disabled),
 .btn-primary.active:focus,
-.btn:hover {
+.btn-primary:hover {
 	border: 1px solid var(--default-theme) !important;
 }
 
