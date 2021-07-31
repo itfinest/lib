@@ -94,14 +94,14 @@ a:not(.navbar-brand) {
 	color: var(--default-theme);
 }
 
-.btn {
+.btn-primary {
 	color: #fff !important;
 	border: 1px solid var(--default-theme);
 	background: var(--default-theme) !important;
 	font-weight: normal !important;
 }
 
-.btn:hover {
+.btn-primary:hover {
 	border: 1px solid var(--default-theme);
 }
 
