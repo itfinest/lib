@@ -107,14 +107,14 @@ a:not([href]) {
 	cursor: pointer !important;
 }
 
-.btn:not(span)-primary {
+.btn-primary {
 	color: #fff !important;
 	border: 1px solid var(--default-theme);
 	background: var(--default-theme) !important;
 	font-weight: normal !important;
 }
 
-.btn:not(span)-primary:hover {
+.btn-primary:hover {
 	border: 1px solid var(--default-theme);
 }
 
@@ -174,7 +174,7 @@ input[type="checkbox"] {
 	z-index: 9999 !important
 }
 
-.btn:not(span) {
+.btn {
 	box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075) !important;
 }
 
@@ -182,13 +182,13 @@ input[type="checkbox"] {
 max-width: 70% !important;
 }*/
 
-.btn:not(span)-primary.disabled,
-.btn:not(span)-primary:disabled,
-.btn:not(span)-primary:focus,
-.btn:not(span)-primary:hover,
-.btn:not(span)-primary:not(:disabled):not(.disabled),
-.btn:not(span)-primary.active:focus,
-.btn:not(span)-primary:hover {
+.btn-primary.disabled,
+.btn-primary:disabled,
+.btn-primary:focus,
+.btn-primary:hover,
+.btn-primary:not(:disabled):not(.disabled),
+.btn-primary.active:focus,
+.btn-primary:hover {
 	border: 1px solid var(--default-theme) !important;
 }
 
