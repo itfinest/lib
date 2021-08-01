@@ -107,7 +107,7 @@ a:not([href]) {
 	cursor: pointer !important;
 }
 
-label {
+div label {
 	margin-bottom: 0 !important;
 }
 
