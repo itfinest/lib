@@ -174,10 +174,6 @@ input[type="checkbox"] {
 	z-index: 9999 !important
 }
 
-:not(span) {
-	box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075) !important;
-}
-
 /*.container {
 max-width: 70% !important;
 }*/
