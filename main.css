@@ -107,14 +107,14 @@ a:not([href]) {
 	cursor: pointer !important;
 }
 
-:not(span)-primary {
+.btn:not(span)-primary {
 	color: #fff !important;
 	border: 1px solid var(--default-theme);
 	background: var(--default-theme) !important;
 	font-weight: normal !important;
 }
 
-:not(span)-primary:hover {
+.btn:not(span)-primary:hover {
 	border: 1px solid var(--default-theme);
 }
 
