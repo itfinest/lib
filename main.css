@@ -174,17 +174,21 @@ input[type="checkbox"] {
 	z-index: 9999 !important
 }
 
+.btn:not(span) {
+	box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075) !important;
+}
+
 /*.container {
 max-width: 70% !important;
 }*/
 
-:not(span)-primary.disabled,
-:not(span)-primary:disabled,
-:not(span)-primary:focus,
-:not(span)-primary:hover,
-:not(span)-primary:not(:disabled):not(.disabled),
-:not(span)-primary.active:focus,
-:not(span)-primary:hover {
+.btn:not(span)-primary.disabled,
+.btn:not(span)-primary:disabled,
+.btn:not(span)-primary:focus,
+.btn:not(span)-primary:hover,
+.btn:not(span)-primary:not(:disabled):not(.disabled),
+.btn:not(span)-primary.active:focus,
+.btn:not(span)-primary:hover {
 	border: 1px solid var(--default-theme) !important;
 }
 
