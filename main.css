@@ -311,9 +311,11 @@ button.close {
 	font-size: 1.25rem !important;
 }
 
-.info_size {
+.info_size,
+.progress-text {
 	font-size: var(--font-size);
 }
+
 
 @media (max-width: 992px) {
 	.container {
