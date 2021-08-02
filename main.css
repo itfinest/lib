@@ -49,6 +49,11 @@ div label {
 	margin-bottom: 0 !important;
 }
 
+#rotater {
+	transition: all 0.3s ease;
+	cursor: pointer;
+}
+
 .btn-primary {
 	color: #fff !important;
 	border: 1px solid var(--default-theme);
