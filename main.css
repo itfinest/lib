@@ -214,13 +214,15 @@ li.breadcrumb-item a.dropdown-item {
 }
 
 .form-control:focus {
-	outline: none;
 	vertical-align: middle;
 	background-repeat: no-repeat;
-	border: 1px solid #ccc !important;
 	color: #6b6b6b !important;
-	background: #f1efef !important;
 	background-clip: border-box !important;
+	border: 2px solid var(--default-theme) !important;
+	outline: none !important;
+	-webkit-appearance:none;
+	box-shadow: none !important;
+	background: #fff !important;
 }
 
 .form-text {
