@@ -106,7 +106,7 @@ input[type="checkbox"] {
 
 .CodeMirror {
 	width: 100% !important;
-	/* min-height: 82vh !important; */
+	height: 100vh;
 	box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075) !important;
 	font-size: var(--font-editor) !important;
 }
@@ -124,10 +124,6 @@ input[type="checkbox"] {
 .btn {
 	box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075) !important;
 }
-
-/*.container {
-max-width: 70% !important;
-}*/
 
 .btn-primary.disabled,
 .btn-primary:disabled,
