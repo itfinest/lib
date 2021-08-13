@@ -261,6 +261,10 @@ button.close {
 	font-size: var(--font-size);
 }
 
+.alert{
+	max-height: 50vh;
+	overflow-y: scroll;
+}
 
 @media (max-width: 992px) {
 	.container {
