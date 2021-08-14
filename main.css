@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
 ::-webkit-scrollbar {
 	width: 8px !important;
 }
@@ -216,7 +217,7 @@ li.breadcrumb-item a.dropdown-item {
 	background-clip: border-box !important;
 	border: 2px solid var(--default-theme) !important;
 	outline: none !important;
-	-webkit-appearance:none;
+	-webkit-appearance: none;
 	box-shadow: none !important;
 	background: #fff !important;
 }
@@ -261,9 +262,9 @@ button.close {
 	font-size: var(--font-size);
 }
 
-.alert{
+.alert {
 	max-height: 50vh;
-	overflow-y: scroll;
+	overflow-y: auto;
 }
 
 @media (max-width: 992px) {
